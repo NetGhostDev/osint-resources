@@ -159,7 +159,99 @@ A curated collection of open source intelligence tools, websites, and resources 
 
 ---
 
-*Sections in progress: Social Networks, Domain & IP, People Search, Phone Numbers, Geolocation, Dark Web, Blockchain & Cryptocurrency, Image & Video Analysis, Public Records, Cyber Threat Intelligence, Documentation & Evidence Capture.*
+## People Search
+
+### General People Search
+
+| Tool | Description | Tags |
+|------|-------------|------|
+| <a href="https://www.truepeoplesearch.com" target="_blank" rel="noopener noreferrer">TruePeopleSearch</a> | Search by name, address, or phone for US individuals. Primarily US; limited Canadian coverage | 🆓 |
+| <a href="https://www.fastpeoplesearch.com" target="_blank" rel="noopener noreferrer">FastPeopleSearch</a> | Name, phone, and address search. Primarily US | 🆓 |
+| <a href="https://nuwber.com" target="_blank" rel="noopener noreferrer">Nuwber</a> | People search by name, phone, email, or address. Primarily US | 🆓 💰 |
+| <a href="https://radaris.com" target="_blank" rel="noopener noreferrer">Radaris</a> | Aggregates public records and social profiles. Primarily US and Canada | 🆓 💰 |
+| <a href="https://webmii.com" target="_blank" rel="noopener noreferrer">WebMii</a> | Aggregates web presence and social profiles. Global coverage | 🆓 |
+| <a href="https://www.idcrawl.com" target="_blank" rel="noopener noreferrer">IDCrawl</a> | Search name or username across social networks and public data. Global | 🆓 |
+| <a href="https://www.zabasearch.com" target="_blank" rel="noopener noreferrer">ZabaSearch</a> | US people search using public records. US only | 🆓 |
+| <a href="https://www.social-searcher.com" target="_blank" rel="noopener noreferrer">Social Searcher</a> | Search a name or keyword across social platforms in real time. Global | 🆓 |
+| <a href="https://www.spokeo.com" target="_blank" rel="noopener noreferrer">Spokeo</a> | People search by name, email, phone — public record aggregator. Primarily US | 💰 |
+| <a href="https://pipl.com" target="_blank" rel="noopener noreferrer">Pipl</a> | Professional identity resolution tool used by investigators. Global; requires account | 💰 📝 |
+| <a href="https://www.cyberbackgroundchecks.com" target="_blank" rel="noopener noreferrer">CyberBackgroundChecks</a> | Background check and people search. US primarily | 🆓 💰 |
+| <a href="https://www.familytreenow.com" target="_blank" rel="noopener noreferrer">FamilyTreeNow</a> | Genealogy and people search using public records. US primarily; useful for historical connections | 🆓 |
+| <a href="https://cipher387.github.io/osintmap/" target="_blank" rel="noopener noreferrer">Worldwide OSINT Tools Map</a> | Interactive map of white/yellow pages and people search tools by country. Useful for country-specific directories | 🆓 |
+| <a href="https://www.canada411.ca" target="_blank" rel="noopener noreferrer">Canada 411</a> | Canadian residential and business phone/address directory. Primary directory for Canadian lookups | 🆓 |
+
+### Court Records & Criminal History
+
+| Tool | Description | Tags |
+|------|-------------|------|
+| <a href="https://www.judyrecords.com" target="_blank" rel="noopener noreferrer">Judyrecords</a> | Free nationwide search of 400M+ US court cases. US only | 🆓 |
+| <a href="https://unicourt.com" target="_blank" rel="noopener noreferrer">UniCourt</a> | US federal and state court record search. US only | 🆓 💰 |
+| <a href="https://pacer.uscourts.gov" target="_blank" rel="noopener noreferrer">PACER (US Federal Courts)</a> | Official US federal court records repository. Paid per page; US federal only | 💰 📝 |
+| <a href="https://aleph.occrp.org" target="_blank" rel="noopener noreferrer">OCCRP Aleph</a> | Search public records, leaks, and court data from 236 sources. Global; strong for financial and organized crime research. Apply for full access | 🆓 📝 |
+| <a href="https://www.opensanctions.org/search" target="_blank" rel="noopener noreferrer">OpenSanctions</a> | Search international sanctions lists and politically exposed persons. Global | 🆓 |
+
+### Social Media People Search
+
+| Tool | Description | Tags |
+|------|-------------|------|
+| <a href="https://www.facebook.com/login/identify?ctx=recover" target="_blank" rel="noopener noreferrer">Facebook Account Recovery Search</a> | Enter phone or email to find associated Facebook account. Does not require login. Useful for linking phone/email to FB | 🆓 |
+| <a href="https://inflact.com/instagram-viewer/profile/" target="_blank" rel="noopener noreferrer">Anonymous Instagram Viewer</a> | View public Instagram profile anonymously without an account. Global | 🆓 |
+| <a href="https://myspace.com/search/people?q=" target="_blank" rel="noopener noreferrer">Myspace Search</a> | Search legacy Myspace profiles — still useful for old usernames. Append name to URL | 🆓 |
+| <a href="https://www.linkedin.com/search/results/people/" target="_blank" rel="noopener noreferrer">LinkedIn</a> | Search professional profiles by name, company, location. Global | 🆓 💰 |
+| <a href="https://www.skype.com/en/" target="_blank" rel="noopener noreferrer">Skype Search</a> | Search Skype by name, email, or phone number. Requires Skype account | 🆓 📝 |
+| <a href="https://bellingcat.github.io/name-variant-search/" target="_blank" rel="noopener noreferrer">Bellingcat Name Variant Search</a> | Generate name variant spellings for cross-cultural searches. Useful for translated/transliterated names | 🆓 |
+
+---
+
+## Phone Numbers
+
+### Reverse Phone Lookup
+
+| Tool | Description | Tags |
+|------|-------------|------|
+| <a href="https://www.phonevalidator.com/index.aspx" target="_blank" rel="noopener noreferrer">Phone Validator</a> | Accurate phone lookup; carrier, line type, owner name. Strong US/Canada coverage | 🆓 |
+| <a href="https://numpi.com" target="_blank" rel="noopener noreferrer">Numpi</a> | Reverse phone lookup and carrier identification. Global | 🆓 |
+| <a href="https://nuwber.com" target="_blank" rel="noopener noreferrer">Nuwber Phone Lookup</a> | Reverse lookup by phone — returns name and address. Primarily US | 🆓 💰 |
+| <a href="https://www.whoseno.com" target="_blank" rel="noopener noreferrer">WhoSeNo</a> | Reverse phone number lookup. Global | 🆓 |
+| <a href="https://www.freecarrierlookup.com" target="_blank" rel="noopener noreferrer">FreeCarrierLookup</a> | Returns carrier name and line type (landline/mobile/VoIP). US and Canada | 🆓 |
+| <a href="https://www.truecaller.com" target="_blank" rel="noopener noreferrer">TrueCaller</a> | Global caller ID and spam database. Particularly strong in South Asia. Do not grant contact list access | 🆓 |
+| <a href="https://www.getcontact.com" target="_blank" rel="noopener noreferrer">GetContact</a> | Crowdsourced caller ID — reveals how contacts are saved by others. Do not grant contact list access | 🆓 |
+| <a href="https://www.canada411.ca" target="_blank" rel="noopener noreferrer">Canada 411</a> | Canadian residential and business directory by phone number. Primary Canadian phone lookup | 🆓 |
+| <a href="https://thatsthem.com/reverse-phone-lookup" target="_blank" rel="noopener noreferrer">ThatsThem Phone Lookup</a> | Reverse phone lookup — name, address, email. Primarily US | 🆓 |
+| <a href="https://www.reversephonecheck.com" target="_blank" rel="noopener noreferrer">Reverse Phone Check</a> | Lookup name and address from phone number. US primarily | 🆓 |
+| <a href="https://spydialer.com" target="_blank" rel="noopener noreferrer">Spy Dialer</a> | Retrieve voicemail greeting and owner name for cell numbers. US primarily | 🆓 |
+| <a href="https://www.usphonebook.com" target="_blank" rel="noopener noreferrer">USPhoneBook</a> | Reverse phone and address lookup. US only | 🆓 |
+
+### WhatsApp & Messaging Platform Checks
+
+| Tool | Description | Tags |
+|------|-------------|------|
+| <a href="https://whatsapp.checkleaked.cc" target="_blank" rel="noopener noreferrer">WhatsApp CheckLeaked</a> | Check if a phone number has a WhatsApp account; view profile photo. Global | 🆓 |
+| <a href="https://watools.io" target="_blank" rel="noopener noreferrer">WATools.io</a> | Check if number is on WhatsApp; download profile picture. Global | 🆓 💰 |
+| <a href="https://2chat.co/tools/whatsapp-checker" target="_blank" rel="noopener noreferrer">2Chat WhatsApp Checker</a> | Verify if a phone number is registered on WhatsApp. Global | 🆓 |
+| <a href="https://github.com/bellingcat/telegram-phone-number-checker" target="_blank" rel="noopener noreferrer">Bellingcat Phone → Telegram</a> | Check if a phone number is linked to a Telegram account. GitHub-based; web demo may be available | 🆓 🔧 |
+
+### Carrier & Line Type
+
+| Tool | Description | Tags |
+|------|-------------|------|
+| <a href="https://www.twilio.com/docs/lookup/v2-api" target="_blank" rel="noopener noreferrer">Twilio Lookup (API)</a> | Lookup carrier, line type, and location. Global; approximately $0.01–0.02 per lookup. Requires free account | 🆓 💰 📝 |
+| <a href="https://www.freecarrierlookup.com" target="_blank" rel="noopener noreferrer">FreeCarrierLookup</a> | Returns carrier and landline/mobile/VoIP type. US and Canada | 🆓 |
+
+### Canadian Carrier & Number Lookups
+
+| Tool | Description | Tags |
+|------|-------------|------|
+| <a href="https://www.cnac.ca/co_codes/co_code_lookup.htm" target="_blank" rel="noopener noreferrer">Canadian Numbering Administration (CNAC)</a> | Lookup Canadian phone number carrier and NPA-NXX code. Official CRTC-recognized database. Authoritative Canadian carrier lookup | 🆓 |
+| <a href="https://www.npanxxsource.com/" target="_blank" rel="noopener noreferrer">NANPA NXX Source</a> | North American Numbering Plan carrier and number portability data | 🆓 |
+| <a href="https://phonelookup.lexisnexisrisk.com/welcome" target="_blank" rel="noopener noreferrer">LexisNexis Phone Lookup (LE Only)</a> | Law enforcement-only free phone lookup. Canada/US. Use LE institutional email to register | 🆓 📝 |
+| <a href="https://nationalnanpa.com/enas/npa_query.do" target="_blank" rel="noopener noreferrer">Area Code Lookup — NANPA</a> | Official NANPA area code and NPA query tool. North America | 🆓 |
+| <a href="https://gsmarena.com" target="_blank" rel="noopener noreferrer">GSM Arena — Device Database</a> | Identify mobile device models by specs. Useful for identifying device from IMEI/photos | 🆓 |
+| <a href="https://phonescoop.com" target="_blank" rel="noopener noreferrer">Phone Scoop — Device Database</a> | Mobile phone specifications and model identification database | 🆓 |
+
+---
+
+*Sections in progress: Social Networks, Domain & IP, Geolocation, Dark Web, Blockchain & Cryptocurrency, Image & Video Analysis, Public Records, Cyber Threat Intelligence, Documentation & Evidence Capture.*
 
 ---
 
