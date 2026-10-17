@@ -348,6 +348,7 @@ A curated collection of open source intelligence tools, websites, and resources 
 | <a href="https://www.zabasearch.com" target="_blank" rel="noopener noreferrer">ZabaSearch</a> | US people search using public records. US only | 🆓 |
 | <a href="https://www.social-searcher.com" target="_blank" rel="noopener noreferrer">Social Searcher</a> | Search a name or keyword across social platforms in real time. Global | 🆓 |
 | <a href="https://www.spokeo.com" target="_blank" rel="noopener noreferrer">Spokeo</a> | People search by name, email, phone — public record aggregator. Primarily US | 💰 |
+| <a href="https://recordwell.ai/" target="_blank" rel="noopener noreferrer">Recordwell</a> | U.S. people search by first and last name using public sources. Full reports require payment; personal-information removal is free. | 💰 |
 | <a href="https://pipl.com" target="_blank" rel="noopener noreferrer">Pipl</a> | Professional identity resolution tool used by investigators. Global; requires account | 💰 📝 |
 | <a href="https://www.cyberbackgroundchecks.com" target="_blank" rel="noopener noreferrer">CyberBackgroundChecks</a> | Background check and people search. US primarily | 🆓 💰 |
 | <a href="https://www.familytreenow.com" target="_blank" rel="noopener noreferrer">FamilyTreeNow</a> | Genealogy and people search using public records. US primarily; useful for historical connections | 🆓 |
