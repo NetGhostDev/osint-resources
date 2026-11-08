@@ -181,6 +181,7 @@ A curated collection of open source intelligence tools, websites, and resources 
 | <a href="https://mattwright324.github.io/youtube-geofind/" target="_blank" rel="noopener noreferrer">YouTube Geofind (mattwright324)</a> | Search YouTube videos by geographic coordinates | 🆓 |
 | <a href="https://mattw.io/youtube-geofind/location" target="_blank" rel="noopener noreferrer">YouTube Geofind (mattw.io)</a> | Find geotagged YouTube videos by location coordinates. Companion tool to the above | 🆓 |
 | <a href="https://mattw.io/youtube-metadata/" target="_blank" rel="noopener noreferrer">YouTube Metadata</a> | Extract detailed metadata from YouTube video URLs | 🆓 |
+| <a href="https://videoreversesearch.com/" target="_blank" rel="noopener noreferrer">Video Reverse Search</a> | Video Reverse Search extracts frames from a video in the browser and searches selected stills for matching pages. | 💰 |
 | <a href="https://citizenevidence.amnestyusa.org" target="_blank" rel="noopener noreferrer">Amnesty YouTube Dataviewer</a> | Reverse image search of video frames; returns exact upload time | 🆓 |
 | <a href="https://hadzy.com" target="_blank" rel="noopener noreferrer">Hadzy — YouTube Comments</a> | Search and analyse YouTube video comments | 🆓 |
 
